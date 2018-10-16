@@ -17,6 +17,7 @@ You are free to use any tools you believe will give you a balance of speed to co
 
 The clinicians will be monitoring the patients from a portal. This portal needs to be able to showcase where each patient is within their house in (reasonable) real-time. When a patient enters a specified room, an alert can be shown on screen that notifies clinicians of a message. Simplify put, an occupation-based alert,e.g.. "Patient {name} has entered the living room." or "Patient {name} is entering kitchen, you should contact them."
 The backend is getting information from an external source of a patients location within their house, which can change over time.
+
 ## Questions
 After you've finished the solution, we would like you complete a few questions. Put the answers in the readme of your submission.
 1. If you had more time, what would you change or focus more time on?
