@@ -10,7 +10,7 @@ This test is not about building a complete system, it's about giving you the cha
 3. Email the hiring Point of Contact with the URLs of the repositories.
 
 ## The Tech Stack
-You are free to use any tools you believe will give you a balance of speed to complete and ability to demonstrate your skillset. We are, however, a React/Redux+ frontend that sits on C#/Nodejs backends. Bonus points will be awarded if it works in a docker file. Please also commit your code using git, we would like to access the evolution of the code.
+You are free to use any tools you believe will give you a balance of speed to complete and ability to demonstrate your skillset. We are, however, a React/Redux+ frontend that sits on C#/Nodejs backends. Bonus points will be awarded if it works in a docker file. Please also commit your code using git, we would like to assess the evolution of the code.
 
 # Challenge
 ## User Story
