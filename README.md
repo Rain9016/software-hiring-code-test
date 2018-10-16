@@ -19,7 +19,7 @@ The clinicians will be monitoring the patients from a portal. This portal needs 
 The backend is getting information from an external source of a patients location within their house, which can change over time.
 
 ## Questions
-After you've finished the solution, we would like you complete a few questions. Put the answers in the readme of your submission.
+After you've finished the solution, we would like you to complete a few questions. Put the answers in the readme of your submission.
 1. If you had more time, what would you change or focus more time on?
 2. Which part of the solution consumed the most amount of time?
 3. What would you suggest to the customer that they may not have thought of in regards to their request?
